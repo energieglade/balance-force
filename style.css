@@ -1,0 +1,270 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #F4EDE4;
+    color: #2F3E36;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+header,
+main,
+footer {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 2.5rem 1.5rem 1.5rem;
+    text-align: center;
+}
+
+header img {
+    display: block;
+    width: 110px;
+    height: auto;
+    margin: 0 auto 1rem;
+}
+
+h1,
+h2 {
+    color: #7A9E7E;
+    line-height: 1.2;
+}
+
+h1 {
+    margin: 0 0 0.75rem;
+    font-size: clamp(2rem, 6vw, 3.25rem);
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+    font-size: clamp(1.65rem, 4vw, 2.25rem);
+}
+
+header > p {
+    margin: 0 0 1.5rem;
+    font-size: 1.15rem;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background-color: #7A9E7E;
+    border-radius: 0.75rem;
+}
+
+nav a {
+    padding: 0.55rem 0.85rem;
+    color: #F4EDE4;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 0.45rem;
+}
+
+nav a:hover,
+nav a:focus-visible {
+    background-color: #C9785D;
+    color: #2F3E36;
+}
+
+main {
+    padding: 1rem 1.5rem 3rem;
+}
+
+section {
+    display: none;
+    margin: 0 0 4.5rem;
+    scroll-margin-top: 1.5rem;
+}
+
+#ueber-uns {
+    display: block;
+}
+
+body:has(#philosophie:target) #ueber-uns,
+body:has(#lektionen:target) #ueber-uns,
+body:has(#kontakt:target) #ueber-uns {
+    display: none;
+}
+
+#philosophie:target,
+#lektionen:target,
+#kontakt:target {
+    display: block;
+}
+
+section:last-child {
+    margin-bottom: 1.5rem;
+}
+
+section img {
+    display: block;
+    width: min(100%, 480px);
+    height: auto;
+    margin: 0 0 1.5rem;
+    border-radius: 1rem;
+    object-fit: contain;
+}
+
+p {
+    max-width: 70ch;
+}
+
+a {
+    color: #C9785D;
+    font-weight: 700;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
+}
+
+a:hover,
+a:focus-visible {
+    color: #7A9E7E;
+}
+
+ul {
+    max-width: 70ch;
+    margin: 1.25rem 0;
+    padding-left: 1.35rem;
+}
+
+li {
+    margin-bottom: 0.65rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 0.75rem;
+    background-color: #F4EDE4;
+}
+
+thead {
+    background-color: #C9785D;
+    color: #2F3E36;
+}
+
+th,
+td {
+    padding: 1rem;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    font-weight: 700;
+}
+
+tbody tr {
+    border-bottom: 1px solid #7A9E7E;
+}
+
+tbody tr:last-child {
+    border-bottom: 0;
+}
+
+address {
+    font-style: normal;
+}
+
+address p {
+    margin: 0.35rem 0;
+}
+
+footer {
+    max-width: none;
+    padding: 1.5rem;
+    background-color: #2F3E36;
+    color: #F4EDE4;
+    text-align: center;
+}
+
+footer p {
+    max-width: none;
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 1rem;
+    }
+
+    header {
+        padding-top: 1.75rem;
+    }
+
+    header img {
+        width: 88px;
+    }
+
+    nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    nav a {
+        text-align: center;
+    }
+
+    main {
+        padding: 1rem 1.25rem 2.5rem;
+    }
+
+    section {
+        margin-bottom: 3.25rem;
+    }
+
+    table,
+    thead,
+    tbody,
+    tr,
+    th,
+    td {
+        display: block;
+    }
+
+    thead {
+        border-radius: 0.75rem 0.75rem 0 0;
+    }
+
+    thead tr {
+        display: none;
+    }
+
+    tbody tr {
+        padding: 0.5rem 0;
+    }
+
+    tbody td {
+        border: 0;
+    }
+
+    tbody td::before {
+        display: block;
+        color: #7A9E7E;
+        font-weight: 700;
+    }
+
+    tbody td:nth-child(1)::before {
+        content: "Tag";
+    }
+
+    tbody td:nth-child(2)::before {
+        content: "Zeit";
+    }
+
+    tbody td:nth-child(3)::before {
+        content: "Lektion";
+    }
+}

@@ -3,7 +3,7 @@ KI-Dokumentation – 6-7 Balance Force
 
 1. Verwendetes KI-Tool
 ----------------------
-Chatgpt
+Chatgpt (Bilder), Claude (Texte und Farbkonzept)
 
 
 2. Prompt Logo
@@ -40,7 +40,7 @@ Gespeichert als: bilder/Studio.png
 
 5. Prompts für Texte
 --------------------
-Schreibe die Texte für die Abschnitte Über uns, Philosophie, Lektionen und Kontakt so um, dass sie zur Zielgruppe junge Berufstätige und Lernende passen. Fasse die Philosophie zusätzlich als Liste mit Eckpunkten zusammen
+Schreibe die Texte für die Abschnitte Über uns, Philosophie, Lektionen und Kontakt so um, dass sie zur Zielgruppe junge Berufstätige und Lernende passen. Fasse die Philosophie zusätzlich als Liste mit Eckpunkten zusammen.
 
 6. Farbkonzept
 --------------
