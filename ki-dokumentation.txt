@@ -15,7 +15,7 @@ und Terrakotta #C9785D auf hellem Sandton #F4EDE4. Junges, frisches
 Erscheinungsbild für Berufstätige und Lernende. Schriftzug «6-7 Balance Force»
 gut lesbar, quadratisches Format.
 
-Gespeichert als:Logo.png
+Gespeichert als: bilder/Logo.png
 
 
 3. Prompt Foto Patrick M.
@@ -25,7 +25,7 @@ freundliches, ruhiges Lächeln, kurzer Bart, trägt ein schlichtes salbeigrünes
 T-Shirt. Er sitzt entspannt im Schneidersitz in einem hellen Yoga-Studio,
 weiches natürliches Tageslicht, warme Töne, geringe Tiefenschärfe.
 
-Gespeichert als: Patrick.jpg
+Gespeichert als: bilder/Patrick.png
 
 
 4. Prompt Foto Studio
@@ -35,13 +35,12 @@ Holzboden, grosse Fenster mit Tageslicht, ausgerollte Yogamatten in Salbeigrün
 und Sand, einige Grünpflanzen, Wände in warmem Beige. Ruhige, einladende
 Atmosphäre, minimalistisch und aufgeräumt, keine Personen.
 
-Gespeichert als: Studio.jpg
+Gespeichert als: bilder/Studio.png
 
 
 5. Prompts für Texte
 --------------------
-Keine. Die Texte wurden aus dem Auftrag übernommen und nicht mit KI verändert.
-
+Schreibe die Texte für die Abschnitte Über uns, Philosophie, Lektionen und Kontakt so um, dass sie zur Zielgruppe junge Berufstätige und Lernende passen. Fasse die Philosophie zusätzlich als Liste mit Eckpunkten zusammen
 
 6. Farbkonzept
 --------------
