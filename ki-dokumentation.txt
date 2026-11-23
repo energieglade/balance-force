@@ -1,0 +1,60 @@
+KI-Dokumentation – 6-7 Balance Force
+=====================================
+
+1. Verwendetes KI-Tool
+----------------------
+Chatgpt
+
+
+2. Prompt Logo
+--------------
+Erstelle ein minimalistisches, modernes Logo für ein Yoga-Studio namens
+«6-7 Balance Force». Stilisierte Figur in einer ruhigen Yoga-Pose oder ein
+Kreis mit Blattform, flaches Design, klare Linien. Farben: Salbeigrün #7A9E7E
+und Terrakotta #C9785D auf hellem Sandton #F4EDE4. Junges, frisches
+Erscheinungsbild für Berufstätige und Lernende. Schriftzug «6-7 Balance Force»
+gut lesbar, quadratisches Format.
+
+Gespeichert als:Logo.png
+
+
+3. Prompt Foto Patrick M.
+-------------------------
+Realistisches Porträtfoto eines Schweizer Yogalehrers, ca. 40 Jahre alt,
+freundliches, ruhiges Lächeln, kurzer Bart, trägt ein schlichtes salbeigrünes
+T-Shirt. Er sitzt entspannt im Schneidersitz in einem hellen Yoga-Studio,
+weiches natürliches Tageslicht, warme Töne, geringe Tiefenschärfe.
+
+Gespeichert als: Patrick.jpg
+
+
+4. Prompt Foto Studio
+---------------------
+Realistisches Foto eines hellen, modernen Yoga-Studios in der Schweiz.
+Holzboden, grosse Fenster mit Tageslicht, ausgerollte Yogamatten in Salbeigrün
+und Sand, einige Grünpflanzen, Wände in warmem Beige. Ruhige, einladende
+Atmosphäre, minimalistisch und aufgeräumt, keine Personen.
+
+Gespeichert als: Studio.jpg
+
+
+5. Prompts für Texte
+--------------------
+Keine. Die Texte wurden aus dem Auftrag übernommen und nicht mit KI verändert.
+
+
+6. Farbkonzept
+--------------
+Hauptfarbe (Navigation, Überschriften):  Salbeigrün       #7A9E7E
+Hintergrund:                             Sand             #F4EDE4
+Akzentfarbe (Links, Hover, Tabellenkopf): Terrakotta       #C9785D
+Textfarbe:                               Dunkles Waldgrün #2F3E36
+
+
+7. Begründung der Farbwahl
+--------------------------
+Salbeigrün und Sand wirken natürlich und beruhigend und passen damit zum
+sanften Yoga und zum Motto «Wer langsamer wird, kommt weiter». Terrakotta
+setzt warme, moderne Akzente, damit die Seite für junge Berufstätige und
+Lernende frisch und nicht altmodisch wirkt. Das dunkle Grün als Textfarbe ist
+auf dem hellen Hintergrund gut lesbar.
